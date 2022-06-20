@@ -1,0 +1,141 @@
+album,album_type,track_number,id_track,name,popularity,explicit,duration_ms,release_date,artists
+Versions of Me,album,1,3FkeNbs9Zeiqkr3WkbOiGp,Envolver,79,False,193805,2022-04-12,['Anitta']
+Versions of Me,album,2,3SWjpNMVUi5UXz096NbfPr,Gata (feat. Chencho Corleone),74,False,206277,2022-04-12,"['Anitta', 'Chencho Corleone']"
+Versions of Me,album,3,5JKvoSM8KY9Cski1UvGcpa,I'd Rather Have Sex,64,False,173255,2022-04-12,['Anitta']
+Versions of Me,album,4,76NZFxqS6b0xsd16e0LIfF,Gimme Your Number,60,False,157098,2022-04-12,"['Anitta', 'Ty Dolla $ign']"
+Versions of Me,album,5,2OU6RxOSA8n7nDpg3gF3aX,Maria Elegante (feat. Afro B),59,False,186476,2022-04-12,"['Anitta', 'Afro B']"
+Versions of Me,album,6,05bzJIGgdNTEOvt6bBJAej,Love You,58,False,182512,2022-04-12,['Anitta']
+Versions of Me,album,7,5tQj2mfKL21L9mQ643z5zw,Boys Don't Cry,64,False,136011,2022-04-12,['Anitta']
+Versions of Me,album,8,2nkuIfizGlr456oUbGCBmZ,Versions of Me,64,False,184038,2022-04-12,['Anitta']
+Versions of Me,album,9,3912zNANDuLatGYzGSobcE,Turn It Up,56,True,159606,2022-04-12,['Anitta']
+Versions of Me,album,10,66wc7tEC6OapOuvRx1ncbD,Ur Baby (feat. Khalid),60,False,163249,2022-04-12,"['Anitta', 'Khalid']"
+Versions of Me,album,11,0Ie2diJz1BjbGdln2Mcjlh,Girl From Rio,55,False,194421,2022-04-12,['Anitta']
+Versions of Me,album,12,63IC8gaszSBCasV9THojiT,Faking Love (feat. Saweetie),62,True,148577,2022-04-12,"['Anitta', 'Saweetie']"
+Versions of Me,album,13,71fwkaKdNrxiZZbkzSqmFJ,Que Rabão (feat. Mr. Catra),80,True,176193,2022-04-12,"['Anitta', 'YG', 'Papatinho', 'MC Kevin o Chris', 'Mr. Catra']"
+Versions of Me,album,14,4a3LvPpAj6ogH7qSuPr5H6,Me Gusta (with Cardi B & Myke Towers),59,False,180788,2022-04-12,"['Anitta', 'Myke Towers', 'Cardi B']"
+Versions of Me,album,15,5AJfaxekTYEnZTijlvOuxk,"Love Me, Love Me",55,False,191928,2022-04-12,['Anitta']
+Kisses,album,1,1U62BQhqoJK5j9SI03aBys,Atención,45,False,160000,2019-04-05,['Anitta']
+Kisses,album,2,2eSnW4d3A4SyEVhVPmBffa,Banana,53,False,195619,2019-04-05,"['Anitta', 'Becky G']"
+Kisses,album,3,2H8ETIUEoN9YMf56X66bxd,Onda diferente (feat. Papatinho),55,False,160900,2019-04-05,"['Anitta', 'LUDMILLA', 'Snoop Dogg', 'Papatinho']"
+Kisses,album,4,6p6sG45DypURkhhXsVr6MN,Sin miedo,47,False,191362,2019-04-05,"['Anitta', 'DJ Luian', 'Mambo Kingz']"
+Kisses,album,5,5qm2otRZaeZaqdLVVohUjq,Poquito,47,True,175670,2019-04-05,"['Anitta', 'Swae Lee']"
+Kisses,album,6,2YHR2QhK6nWta7rbY1on6i,Tu y yo,45,False,206701,2019-04-05,"['Anitta', 'Chris Marshall']"
+Kisses,album,7,32lyOiqQrmCUICCcBfkBeG,Get To Know Me,44,False,162139,2019-04-05,"['Anitta', 'Alesso']"
+Kisses,album,8,7KicgcwT4Pz6wENOTJCNTp,Rosa,49,False,166156,2019-04-05,"['Anitta', 'Prince Royce']"
+Kisses,album,9,3m9zvjbilaBUMKNFcROBfF,Juego,45,False,192324,2019-04-05,['Anitta']
+Kisses,album,10,2GsvXMAz16fKroAmaCxLfL,Você mentiu,49,False,179268,2019-04-05,"['Anitta', 'Caetano Veloso']"
+Bang,album,1,1Cml3fnCNLZUC1EEtkcgVb,Bang,56,False,190280,2015-10-13,['Anitta']
+Bang,album,2,5UE8e9VTMmv5fjGXLETjCf,Deixa ele sofrer,47,False,171546,2015-10-13,['Anitta']
+Bang,album,3,3hjBYlefZoLMMvziRtYZuM,Cravo e canela (Participação especial de Vitin),46,False,200506,2015-10-13,"['Anitta', 'Vitin']"
+Bang,album,4,3yVhHc4iM8zbahpTI782Ei,Parei,33,False,153586,2015-10-13,['Anitta']
+Bang,album,5,5Bn6W4bwH7Bw5nMvn8V4xF,Essa mina é louca (Participação especial de Jhama),52,False,160893,2015-10-13,"['Anitta', 'Jhama']"
+Bang,album,6,77UBpuAOvgi3iTljWuswz2,Atenção,33,False,176133,2015-10-13,['Anitta']
+Bang,album,7,7CeIxIEh5rGM7iOqfxWcrN,Gosto assim - Participação especial de Dubeat,34,False,198720,2015-10-13,"['Anitta', 'Dubeat']"
+Bang,album,8,4MFJn2mRnWKm0fCge4dy83,Show completo,33,False,157173,2015-10-13,['Anitta']
+Bang,album,9,2SzpTcsY2jdMDbNkYDtv6Y,Volta amor,31,False,154933,2015-10-13,['Anitta']
+Bang,album,10,4uGcFswfOPfPfRvHi9KXJR,Sim - Participação especial de Cone Crew Diretoria,37,False,186826,2015-10-13,"['Anitta', 'Cone Crew']"
+Bang,album,11,2cFTL0ycAKGxxcz6WGtPHG,Pode chegar - Participação especial de Nego do Borel,34,False,186026,2015-10-13,"['Anitta', 'Nego do Borel']"
+Bang,album,12,3X4nQ4LwU6ZVzNEnGpNMTm,Eu sou do tipo,35,False,138493,2015-10-13,['Anitta']
+Bang,album,13,6QZDugvGSlF7qKtro1GwkY,Deixa a onda te levar,31,False,145120,2015-10-13,['Anitta']
+Bang,album,14,5YKcu1XDsEijBhCjt9zcKL,Me leva a sério,33,False,170733,2015-10-13,['Anitta']
+Bang,album,15,2KSHzo3IkJePz0uguSx2ug,Deixa ele sofrer - Acústico,33,False,162840,2015-10-13,['Anitta']
+Meu Lugar,album,1,4Upra3sdmiH3I3YKaLDotM,Porta do centro da terra - Ao vivo,22,False,171663,2014-06-03,['Anitta']
+Meu Lugar,album,2,2vgZZ0I1Fed5ECh6UkVs8T,Não para - Ao vivo,31,False,194891,2014-06-03,['Anitta']
+Meu Lugar,album,3,1NU7BDqsDV4VanASPN7HHt,Menina má - Ao vivo,32,False,186073,2014-06-03,['Anitta']
+Meu Lugar,album,4,1wv5vc6wWgjCv61lgrxULx,Proposta - Ao vivo,28,False,174476,2014-06-03,['Anitta']
+Meu Lugar,album,5,1c6tFqPnZ4fblJFP8eepUB,Cachorro eu tenho em casa - Ao vivo,25,False,152154,2014-06-03,['Anitta']
+Meu Lugar,album,6,5PC5b7Nz8cNYg5H6iErKJo,Eu sou assim - Ao vivo,24,False,324224,2014-06-03,['Anitta']
+Meu Lugar,album,7,4ml0FnLsmuuBhLEJgJhAU4,Fica só olhando - Ao vivo,25,False,243217,2014-06-03,['Anitta']
+Meu Lugar,album,8,4EGy87IWtdUyDarWVadga7,Ritmo perfeito - Ao vivo,29,False,174940,2014-06-03,['Anitta']
+Meu Lugar,album,9,1f8fefSKc2291T8ZKNG0A9,Achei / Príncipe de vento - Ao vivo,24,False,257456,2014-06-03,['Anitta']
+Meu Lugar,album,10,3DHPD0hBeyaHXGxmNVGqx6,Zen - Ao vivo,27,False,164555,2014-06-03,['Anitta']
+Meu Lugar,album,11,0970jjl5Z0tpjGt77s7ZwZ,Quem sabe - Ao vivo,23,False,223958,2014-06-03,['Anitta']
+Meu Lugar,album,12,1tCpb2si0PJdNdBIflPOF7,Musica de amor - Ao vivo,23,False,186885,2014-06-03,['Anitta']
+Meu Lugar,album,13,0kqtyu6GLI2RGdanxn7Ne8,Cobertor (Participação especial de Projota) - Ao vivo,31,False,186473,2014-06-03,['Anitta']
+Meu Lugar,album,14,3Bvt2l2PGkqQ4waaX5RyW2,Mulher (Participação especial de Projota) - Ao vivo,28,False,182051,2014-06-03,['Anitta']
+Meu Lugar,album,15,6SClTQ3mFyX4lOCTIgPhgD,Eu vou ficar - Remix; Ao vivo,23,False,151057,2014-06-03,['Anitta']
+Meu Lugar,album,16,6sxNJnbyuAZN4ySyLrJOvH,Tá na mira - Ao vivo,24,False,186559,2014-06-03,['Anitta']
+Meu Lugar,album,17,1Mja4CZ4Ic3NlXLOyey6Uq,Meiga e abusada - Ao vivo,28,False,227823,2014-06-03,['Anitta']
+Meu Lugar,album,18,1D8h1U6pkJxrzn0JSsY4aC,Na batida - Ao vivo,31,False,161601,2014-06-03,['Anitta']
+Meu Lugar,album,19,2loApP0kPaim0BTDVP9F26,Movimento da sanfoninha - Ao vivo,57,False,176608,2014-06-03,['Anitta']
+Meu Lugar,album,20,7fMCygGG9f0JrNXqGvePNF,No meu talento - Ao vivo,26,False,164556,2014-06-03,['Anitta']
+Meu Lugar,album,21,7waJ0wcUDjR7d6ilnOZN4l,Blá blá blá - Ao vivo,26,False,172581,2014-06-03,['Anitta']
+Meu Lugar,album,22,2dhd2YLYfGCwFwUPBQYx7S,Show das Poderosas - Ao vivo,25,False,259127,2014-06-03,['Anitta']
+Meu Lugar,album,23,3wue6Z582aDvNM6YX6iet2,Vai e volta,22,False,172327,2014-06-03,['Anitta']
+Meu Lugar,album,24,3cVDwY9QxKlNVDnkUXrhJM,Na batida,30,False,163568,2014-06-03,['Anitta']
+Meu Lugar,album,25,3cee22xqLsfE9hAjcxx20e,Musica de amor,22,False,185644,2014-06-03,['Anitta']
+Meu Lugar,album,26,34tdjX7GI0wLCC2gLkRz4z,Cobertor (Participação especial de Projota),25,False,184259,2014-06-03,"['Anitta', 'Projota']"
+Meu Lugar,album,27,3FLEJ66KjOtGZ0LqvcHx03,Mulher (Participação especial de Projota),21,False,165329,2014-06-03,"['Anitta', 'Projota']"
+Meu Lugar,album,28,1KpNie4Mbh2TBkEjgQTICT,Blá blá blá,42,False,173251,2014-06-03,['Anitta']
+Meu Lugar,album,29,4Z7ZcOmszmcvknxiZIW4PN,Quem sabe,20,False,223513,2014-06-03,['Anitta']
+Meu Lugar,album,30,44hhNKXZEEeA9JrxwlVe2r,No meu talento,26,False,164802,2014-06-03,['Anitta']
+Meu Lugar,album,31,2NOTK05utxufaTUs20CvQu,Ritmo perfeito,22,False,176421,2014-06-03,['Anitta']
+Ritmo Perfeito,album,1,59LD1epqw721Bt4aPuYaRk,Na batida,48,False,163568,2014-06-03,['Anitta']
+Ritmo Perfeito,album,2,32sOGrAJfrL9x8xipYic7X,Ritmo perfeito,45,False,176421,2014-06-03,['Anitta']
+Ritmo Perfeito,album,3,70a6mGZbNFPyvGBjtOALSS,Musica de amor,31,False,185644,2014-06-03,['Anitta']
+Ritmo Perfeito,album,4,1EU5suqjDDFtYZ7Y72wyMS,Cobertor (Participação especial de Projota),51,False,184259,2014-06-03,"['Anitta', 'Projota']"
+Ritmo Perfeito,album,5,2TbI4gmIBQfS3WsQCgO9nM,Mulher (Participação especial de Projota),32,False,165329,2014-06-03,"['Anitta', 'Projota']"
+Ritmo Perfeito,album,6,7jRUdZeS3OmEwVcNpA9eBZ,No meu talento,34,False,164802,2014-06-03,['Anitta']
+Ritmo Perfeito,album,7,46O4u2gtLI42BP3qjizCyd,Blá blá blá,34,False,173251,2014-06-03,['Anitta']
+Ritmo Perfeito,album,8,2a70mgPFzlOgnF3i7cxO7l,Quem sabe,26,False,223513,2014-06-03,['Anitta']
+Ritmo Perfeito,album,9,0EbCr1zJ6ucBieuNBd9Z9T,Vai e volta,26,False,172327,2014-06-03,['Anitta']
+Ritmo Perfeito,album,10,4Gqnv8bnvVfYrGbu3MuuYi,Blá blá blá - Extended Remix,22,False,205594,2014-06-03,['Anitta']
+Ritmo Perfeito,album,11,2D1SDJrpfNQBk5zx1ADCiO,Zen (feat. Rasel),37,False,168441,2014-06-03,"['Anitta', 'Rasel']"
+Ritmo Perfeito,album,12,0SJp4OIdSFE4xenhlGoKLU,No meu talento - Participação especial de MC Guimê,39,False,178164,2014-06-03,"['Anitta', 'MC Guime']"
+Anitta,album,1,28aUFtkMnJaqNQkLHR0weV,Show das Poderosas,52,False,150933,2013-02-06,['Anitta']
+Anitta,album,2,6jFCFrcstrdTP2XPkBfV1F,Meiga e abusada,53,False,229320,2013-02-06,['Anitta']
+Anitta,album,3,27F7WwbBtChELVo97qrvLg,Tá na mira,46,False,171360,2013-02-06,['Anitta']
+Anitta,album,4,1aUUrBmdIYN7FvIzHdpisn,Zen,48,False,165106,2013-02-06,['Anitta']
+Anitta,album,5,3zX00Xzg6XUhWkORpeWViA,Achei,30,False,161573,2013-02-06,['Anitta']
+Anitta,album,6,1fmLpwCRHqiuJw22mwrBZG,Menina má,48,False,175626,2013-02-06,['Anitta']
+Anitta,album,7,0lNvwuvutKjdXIo8XOiow4,Principe de vento,40,False,149680,2013-02-06,['Anitta']
+Anitta,album,8,4FWS2ZhM5Y0XUZiSuYrwoA,Não para,42,False,193613,2013-02-06,['Anitta']
+Anitta,album,9,7m0KBWVdTwYzcD5bsCPpHS,Eu sou assim,32,False,183933,2013-02-06,['Anitta']
+Anitta,album,10,4jIhTSgq472p9JmFMt5AFj,Fica só olhando,39,False,166266,2013-02-06,['Anitta']
+Anitta,album,11,2qnKP16MaAETWKkR244CWG,Proposta,33,False,167773,2013-02-06,['Anitta']
+Anitta,album,12,2FElnuWZBfi3iqrFHQqzg3,Cachorro eu tenho em casa,33,False,151546,2013-02-06,['Anitta']
+Anitta,album,13,4aV7Q5eYHcxWq8kYIY1lRj,Som do coração,28,False,198893,2013-02-06,['Anitta']
+"DANÇARINA (feat. Nicky Jam, MC Pedrinho) [Remix]",single,1,5QQKWOwPjG9vcDBTQ5Hv5Q,"DANÇARINA (feat. Nicky Jam, MC Pedrinho) - Remix",67,False,212000,2022-06-10,"['PEDRO SAMPAIO', 'Anitta', 'Dadju', 'Mc Pedrinho', 'Nicky Jam']"
+"DANÇARINA (feat. Nicky Jam, MC Pedrinho) [Remix]",single,2,1To6ufcQ8tWNjX6c8DKbvv,DANÇARINA,49,False,110222,2022-06-10,"['PEDRO SAMPAIO', 'Mc Pedrinho']"
+Envolver Remix,single,1,4B7mXGdCLQFulSxPTIEjPu,Envolver Remix,76,False,182863,2022-02-17,"['Anitta', 'Justin Quiles']"
+Boys Don't Cry,single,1,35COLcFjvONwVv6jkG23gI,Boys Don't Cry,73,False,136011,2022-01-27,['Anitta']
+NO CHÃO NOVINHA,single,1,7ARoqP7G8UYW8SyYPyPp7k,NO CHÃO NOVINHA,74,False,136901,2021-12-09,"['Anitta', 'PEDRO SAMPAIO']"
+Envolver,single,1,3IAfUEeaXRX9s9UdKOJrFI,Envolver,90,False,193805,2021-11-11,['Anitta']
+Faking Love (feat. Saweetie),single,1,3V7jLMYvvg4BHi4tmDveNc,Faking Love (feat. Saweetie),67,True,148577,2021-10-14,"['Anitta', 'Saweetie']"
+Faking Love (feat. Saweetie),single,1,3V7jLMYvvg4BHi4tmDveNc,Faking Love (feat. Saweetie),67,True,148577,2021-10-14,"['Anitta', 'Saweetie']"
+La Mamá de la Mamá (Remix),single,1,72LVZma2Bd7Y6imwoSecR6,La Mamá de la Mamá (Remix),53,False,258923,2021-07-30,"['El Alfa', 'Anitta', 'Busta Rhymes', 'CJ', 'El Cherry Scom', 'Wisin']"
+SexToU,single,1,0RMpa3qNoB6rlVyhRmwwVO,SexToU,62,False,175478,2021-07-15,"['Rennan da Penha', 'Anitta']"
+Girl From Rio (Snakehips Remix),single,1,398pC5QzPRGvxWog8ZM8PG,Girl From Rio - Snakehips Remix,41,False,191834,2021-06-25,"['Anitta', 'Snakehips']"
+Girl From Rio (Snakehips Remix),single,2,7lWpfLZVdaN9wm6O5Gpyjk,Girl From Rio,25,False,194421,2021-06-25,['Anitta']
+Furiosa,single,1,3AuBvhpKxvDynlPFwbaqJF,Furiosa,48,False,153606,2021-06-18,['Anitta']
+Girl From Rio (feat. DaBaby) [TroyBoi Remix],single,1,61xT9TolMVV2SNvRpUf12E,Girl From Rio (feat. DaBaby) - TroyBoi Remix,30,False,219166,2021-06-11,"['Anitta', 'DaBaby', 'TroyBoi']"
+Girl From Rio (feat. DaBaby) [TroyBoi Remix],single,2,1mhLcPOLuVZRlwHL8JRufR,Girl From Rio (feat. DaBaby),26,False,195428,2021-06-11,"['Anitta', 'DaBaby']"
+Mon soleil,single,1,5iwsC32iiJ1IqJgcg6vkiI,Mon soleil,60,False,190757,2021-06-02,"['Dadju', 'Anitta']"
+Girl From Rio (feat. DaBaby),single,1,6CF085Ol0cVda1WqelybEQ,Girl From Rio (feat. DaBaby),52,False,195428,2021-05-21,"['Anitta', 'DaBaby']"
+Girl From Rio (feat. DaBaby),single,2,2QvmHP2688sFJJNeuSgq9X,Girl From Rio,27,False,194421,2021-05-21,['Anitta']
+Girl From Rio,single,1,2plRom0urixt6BE8t7kOhQ,Girl From Rio,61,False,194421,2021-04-29,['Anitta']
+Loco,single,1,3cNKhoBUhyuXhQTdQjOiT8,Loco,55,False,157323,2021-01-29,['Anitta']
+Me Gusta [Remix (feat. Cardi B & 24kGoldn)],single,1,6vrsT2dvgbttZXmPYNfY8i,Me Gusta - Remix (feat. Cardi B & 24kGoldn),52,True,164791,2020-11-20,"['Anitta', 'Cardi B', '24kGoldn']"
+Me Gusta [Remix (feat. Cardi B & 24kGoldn)],single,1,6vrsT2dvgbttZXmPYNfY8i,Me Gusta - Remix (feat. Cardi B & 24kGoldn),52,True,164791,2020-11-20,"['Anitta', 'Cardi B', '24kGoldn']"
+Amor Real (Holiday Song),single,1,6532nOWtuYIzYaN44pcrHy,Amor Real - Holiday Song,25,False,185454,2020-11-06,['Anitta']
+Me Gusta (with Cardi B & Myke Towers),single,1,7e1VoRlNumuEkXlITMHKLE,Me Gusta (with Cardi B & Myke Towers),64,False,180788,2020-09-18,"['Anitta', 'Myke Towers', 'Cardi B']"
+Me Gusta (with Cardi B & Myke Towers),single,1,7e1VoRlNumuEkXlITMHKLE,Me Gusta (with Cardi B & Myke Towers),64,False,180788,2020-09-18,"['Anitta', 'Myke Towers', 'Cardi B']"
+Tá com o Papato (feat. BIN),single,1,5eT9vs7mv4Y4HrBWcP6abV,Tá com o Papato (feat. BIN),52,False,213333,2020-08-28,"['Papatinho', 'Anitta', 'Dfideliz', 'BIN']"
+Tócame (feat. Arcangel & De La Ghetto),single,1,4cno0k9jDEFpLAQyHNjqVx,Tócame (feat. Arcangel & De La Ghetto),60,False,166264,2020-07-10,"['Anitta', 'Arcangel', 'De La Ghetto']"
+Desce Pro Play (PA PA PA),single,1,4zGtfOglDBfVUypabBwIjQ,Desce Pro Play (PA PA PA),63,False,168507,2020-06-26,"['ZAAC', 'Anitta', 'Tyga']"
+Rave de Favela (feat. BEAM),single,1,1K7WzjKDcDdVbKNGrB0gej,Rave de Favela (feat. BEAM),59,True,154153,2020-02-15,"['Major Lazer', 'MC Lan', 'Anitta', 'BEAM']"
+Contando Lunares (feat. Anitta & Rauw Alejandro) [Remix],single,1,4r2IrqOOdh3dPUKyvRHaSE,Contando Lunares (feat. Anitta & Rauw Alejandro) - Remix,54,False,270532,2020-02-06,"['Don Patricio', 'Anitta', 'Rauw Alejandro']"
+Jogação,single,1,2MKiL2LuTQfVfGKdbmYze3,Jogação,46,False,154402,2020-01-31,"['Anitta', 'Psirico']"
+Joga Sua Potranca,single,1,1gsWgGZvy4waIfWPuctvRU,Joga Sua Potranca,41,False,139399,2020-01-17,"['Dj Gabriel do Borel', 'Anitta']"
+Até o céu,single,1,0NRP5OIrTcgGvttJlSLO0n,Até o céu,57,False,166829,2019-12-20,"['Anitta', 'MC Cabelinho']"
+Meu mel,single,1,0R17DVcbWdNkZRv09VWCIB,Meu mel,53,False,200000,2019-12-13,"['Anitta', 'Melim']"
+Bellaquita (Remix),single,1,1Xnn1TPyr5h0hpRAT4B4EA,Bellaquita - Remix,66,True,304733,2019-11-22,"['Dalex', 'Lenny Tavárez', 'Anitta', 'Natti Natasha', 'Farruko', 'Justin Quiles']"
+Combatchy (feat. MC Rebecca),single,1,2bPtwnrpFNEe8N7Q85kLHw,Combatchy (feat. MC Rebecca),62,False,157600,2019-11-20,"['Anitta', 'Lexa', 'Luísa Sonza', 'Rebecca']"
+Some que ele vem atrás,single,1,2qD7VoDYcrAPY0cVEfpsR5,Some que ele vem atrás,60,False,194771,2019-10-30,"['Anitta', 'Marília Mendonça']"
+Complicado,single,1,52vPpP2gEYaBROIS77J38P,Complicado,48,False,179339,2019-10-04,"['Vitão', 'Anitta']"
+eXplosion,single,1,6UkSkUIBJZaAiuAbflLa9j,eXplosion,50,False,240000,2019-10-04,"['Black Eyed Peas', 'Anitta']"
+Contatinho (Ao Vivo),single,1,4RC2nzqaQygxoVQOVv3XlT,Contatinho - Ao Vivo,59,False,173229,2019-09-06,"['Leo Santana', 'Anitta']"
+Muito Calor,single,1,5uVgsAzjO6eJR06VPrqUga,Muito Calor,55,False,185146,2019-07-11,"['Ozuna', 'Anitta']"
+Pa' Lante,single,1,24wIxeVejXRhYJPrOFpJbg,Pa' Lante,55,False,174893,2019-06-21,"['Alex Sensation', 'Anitta', 'Luis Fonsi']"
+Make It Hot,single,1,3MH4Qwn0qcUvzzqKSLdcnd,Make It Hot,49,False,168397,2019-06-19,"['Major Lazer', 'Anitta', 'Diplo']"
+Ugly (English Version),single,1,50jjD5M7AQOuJyF0PidOhj,Ugly - English Version,30,False,192667,2019-04-03,['Anitta']
